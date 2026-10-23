@@ -1,6 +1,8 @@
+
 Flask>=3.0,<4
 gunicorn>=22.0,<24
 numpy<3
 librosa>=0.10
 soundfile
+av<18
 faster-whisper>=1.0
